@@ -1,0 +1,77 @@
+header{
+  text-align: center;
+  background-color: red;
+  width: 617px;
+  margin: auto;
+}
+footer{
+  text-align: center;
+  background-color: blue;
+  width: 617px;
+  margin: auto;
+}
+table,tr,td{
+  margin: auto;
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+#celone{
+  background-color: red;
+  color: white;
+}
+#celtwo{
+  background-color: blue;
+  color: red;
+}
+#celthree{
+  background-color: pink;
+  color: blue;
+}
+#celfour{
+  background-color: yellow;
+  color: brown;
+}
+#celfive{
+  background-color: purple;
+}
+#celsix{
+  background-color: cyan;
+}
+#celseven{
+  background-color: gold;
+}
+#celeight{
+  background-color: brown;
+}
+#celnine{
+  background-color: peru;
+  color: yellow;
+}
+#celten{
+  background-color: skyblue;
+  color: gray;
+}
+#celeleven{
+  background-color: gray;
+  color: crimson;
+}
+#celtwelve{
+  background-color: beige;
+  color: lime;
+}
+#celcel{
+  background-color: teal;
+}
+#celfourteen{
+  background-color: lightseagreen;
+}
+#celfifteen{
+  background-color: navy;
+}
+#lastcel{
+  background-color: cornflowerblue;
+}
+.foto{
+  width: 150px;
+  height: 150px;
+}
